@@ -1,7 +1,7 @@
 import LottieView from "lottie-react-native";
 import { SafeAreaView, StyleSheet, Text, TouchableOpacity } from "react-native";
 
-const Apresentacao = ({ navigation }) => {
+const Apresentacao = ({ navigation }: any) => {
   const navigateToLogin = () => navigation.navigate("Login");
   const navigateToSobre = () => navigation.navigate("Sobre");
 
