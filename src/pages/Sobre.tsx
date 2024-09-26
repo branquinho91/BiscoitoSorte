@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#f7e4b3",
-    padding: 20,
+    paddingHorizontal: 20,
     alignItems: "center",
   },
   thumbnail: {
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     height: 150,
     objectFit: "cover",
     marginBottom: 20,
-    marginTop: 20,
+    marginTop: 10,
   },
   title: {
     fontSize: 24,

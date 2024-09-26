@@ -65,6 +65,15 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     marginTop: 10,
   },
+  homeButton: {
+    width: 200,
+    height: 40,
+    backgroundColor: "#d2691e",
+    borderRadius: 200,
+    alignItems: "center",
+    justifyContent: "center",
+    marginTop: 10,
+  },
   buttonText: {
     color: "#fff",
     fontSize: 16,
