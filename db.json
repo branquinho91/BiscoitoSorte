@@ -1,53 +1,487 @@
 {
   "biscoitos": [
     {
+      "brand": "brand A",
       "message": "Código limpo é código feliz.",
       "isSpecial": true,
-      "brand": "Marca A",
       "prize": "Café grátis",
       "id": 1
     },
     {
+      "brand": "brand B",
       "message": "Debugging é como ser um detetive em um filme de mistério.",
       "isSpecial": false,
-      "brand": "Marca B",
       "prize": "",
       "id": 2
     },
     {
+      "brand": "brand C",
       "message": "Sempre que você acha que terminou, o bug está só começando.",
       "isSpecial": true,
-      "brand": "Marca C",
       "prize": "Caneca personalizada",
       "id": 3
     },
     {
+      "brand": "brand D",
       "message": "A vida é como um loop infinito, é preciso saber quando sair.",
       "isSpecial": false,
-      "brand": "Marca D",
       "prize": "",
       "id": 4
     },
     {
+      "brand": "brand E",
       "message": "As melhores soluções aparecem quando você menos espera.",
       "isSpecial": true,
-      "brand": "Marca E",
       "prize": "Curso online",
       "id": 5
     },
     {
+      "brand": "brand F",
       "message": "Refatoração: a arte de tornar o código bonito.",
       "isSpecial": false,
-      "brand": "Marca F",
       "prize": "",
       "id": 6
     },
     {
+      "brand": "brand G",
       "message": "Nunca subestime o poder de um café antes do código.",
       "isSpecial": true,
-      "brand": "Marca G",
       "prize": "Café grátis",
       "id": 7
+    },
+    {
+      "brand": "brand H",
+      "message": "A prática leva à perfeição.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 8
+    },
+    {
+      "brand": "brand I",
+      "message": "O código é como um poema: deve ser bonito e significativo.",
+      "isSpecial": true,
+      "prize": "Caderno de anotações",
+      "id": 9
+    },
+    {
+      "brand": "brand J",
+      "message": "Testes são como segurança: nunca é demais.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 10
+    },
+    {
+      "brand": "brand K",
+      "message": "Um bom programador nunca para de aprender.",
+      "isSpecial": true,
+      "prize": "Assinatura de revista",
+      "id": 11
+    },
+    {
+      "brand": "brand L",
+      "message": "O erro é o primeiro passo para o aprendizado.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 12
+    },
+    {
+      "brand": "brand M",
+      "message": "Não tenha medo de falhar, tenha medo de não tentar.",
+      "isSpecial": true,
+      "prize": "Webinar gratuito",
+      "id": 13
+    },
+    {
+      "brand": "brand N",
+      "message": "A paciência é uma virtude, isSpecialmente em programação.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 14
+    },
+    {
+      "brand": "brand O",
+      "message": "Um bom código é aquele que você pode entender amanhã.",
+      "isSpecial": true,
+      "prize": "Mentoria gratuita",
+      "id": 15
+    },
+    {
+      "brand": "brand P",
+      "message": "O feedback é o café do programador.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 16
+    },
+    {
+      "brand": "brand Q",
+      "message": "As melhores ideias vêm das conversas mais simples.",
+      "isSpecial": true,
+      "prize": "Sessão de brainstorming",
+      "id": 17
+    },
+    {
+      "brand": "brand R",
+      "message": "Nunca pare de questionar o porquê.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 18
+    },
+    {
+      "brand": "brand S",
+      "message": "Cada bug é uma oportunidade de aprender.",
+      "isSpecial": true,
+      "prize": "T-Shirt",
+      "id": 19
+    },
+    {
+      "brand": "brand T",
+      "message": "A tecnologia é a ferramenta, o criador é você.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 20
+    },
+    {
+      "brand": "brand U",
+      "message": "Um código bem estruturado é um código que dura.",
+      "isSpecial": true,
+      "prize": "E-book sobre programação",
+      "id": 21
+    },
+    {
+      "brand": "brand V",
+      "message": "Não há atalhos para qualquer lugar que valha a pena ir.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 22
+    },
+    {
+      "brand": "brand W",
+      "message": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "isSpecial": true,
+      "prize": "Curso de desenvolvimento pessoal",
+      "id": 23
+    },
+    {
+      "brand": "brand X",
+      "message": "A simplicidade é a sofisticação máxima.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 24
+    },
+    {
+      "brand": "brand Y",
+      "message": "Um bom design é invisível.",
+      "isSpecial": true,
+      "prize": "Workshop de design",
+      "id": 25
+    },
+    {
+      "brand": "brand Z",
+      "message": "Inovar é sair da zona de conforto.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 26
+    },
+    {
+      "brand": "brand AA",
+      "message": "A colaboração é a chave para o sucesso.",
+      "isSpecial": true,
+      "prize": "Acesso a grupo exclusivo",
+      "id": 27
+    },
+    {
+      "brand": "brand AB",
+      "message": "Um bom feedback é ouro.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 28
+    },
+    {
+      "brand": "brand AC",
+      "message": "A curiosidade é o motor da inovação.",
+      "isSpecial": true,
+      "prize": "Pacote de cursos online",
+      "id": 29
+    },
+    {
+      "brand": "brand AD",
+      "message": "Menos é mais.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 30
+    },
+    {
+      "brand": "brand AE",
+      "message": "Persistência é o caminho para o sucesso.",
+      "isSpecial": true,
+      "prize": "Consultoria gratuita",
+      "id": 31
+    },
+    {
+      "brand": "brand AF",
+      "message": "Não tenha medo de se destacar.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 32
+    },
+    {
+      "brand": "brand AG",
+      "message": "A chave para o sucesso é a comunicação.",
+      "isSpecial": true,
+      "prize": "Livro sobre comunicação",
+      "id": 33
+    },
+    {
+      "brand": "brand AH",
+      "message": "A adversidade pode ser uma oportunidade disfarçada.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 34
+    },
+    {
+      "brand": "brand AI",
+      "message": "O conhecimento é um poder.",
+      "isSpecial": true,
+      "prize": "Assinatura de plataforma de cursos",
+      "id": 35
+    },
+    {
+      "brand": "brand AJ",
+      "message": "A tecnologia é uma extensão da criatividade humana.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 36
+    },
+    {
+      "brand": "brand AK",
+      "message": "Um programador é um artista do código.",
+      "isSpecial": true,
+      "prize": "Quadro para escritório",
+      "id": 37
+    },
+    {
+      "brand": "brand AL",
+      "message": "O planejamento é essencial para o sucesso.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 38
+    },
+    {
+      "brand": "brand AM",
+      "message": "O aprendizado contínuo é a chave para a evolução.",
+      "isSpecial": true,
+      "prize": "Assinatura de podcast",
+      "id": 39
+    },
+    {
+      "brand": "brand AN",
+      "message": "A visão é o que nos guia.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 40
+    },
+    {
+      "brand": "brand AO",
+      "message": "Um código bem escrito fala por si só.",
+      "isSpecial": true,
+      "prize": "Bolsa de estudos",
+      "id": 41
+    },
+    {
+      "brand": "brand AP",
+      "message": "O erro é parte do processo.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 42
+    },
+    {
+      "brand": "brand AQ",
+      "message": "A criatividade não tem limites.",
+      "isSpecial": true,
+      "prize": "Acesso a eventos",
+      "id": 43
+    },
+    {
+      "brand": "brand AR",
+      "message": "O que importa é o impacto que você causa.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 44
+    },
+    {
+      "brand": "brand AS",
+      "message": "A tecnologia muda, mas o aprendizado é eterno.",
+      "isSpecial": true,
+      "prize": "Inscrição em conferência",
+      "id": 45
+    },
+    {
+      "brand": "brand AT",
+      "message": "Nunca é tarde para começar.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 46
+    },
+    {
+      "brand": "brand AU",
+      "message": "A flexibilidade é fundamental.",
+      "isSpecial": true,
+      "prize": "Mentoria em grupo",
+      "id": 47
+    },
+    {
+      "brand": "brand AV",
+      "message": "Os desafios nos tornam mais fortes.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 48
+    },
+    {
+      "brand": "brand AW",
+      "message": "A confiança é a base da liderança.",
+      "isSpecial": true,
+      "prize": "Curso de liderança",
+      "id": 49
+    },
+    {
+      "brand": "brand AX",
+      "message": "Cada dia é uma nova oportunidade.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 50
+    },
+    {
+      "brand": "brand AY",
+      "message": "O trabalho em equipe gera resultados incríveis.",
+      "isSpecial": true,
+      "prize": "Dinâmica em grupo",
+      "id": 51
+    },
+    {
+      "brand": "brand AZ",
+      "message": "A mudança é o único constante.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 52
+    },
+    {
+      "brand": "brand BA",
+      "message": "Um bom planejamento evita problemas futuros.",
+      "isSpecial": true,
+      "prize": "Consultoria em planejamento",
+      "id": 53
+    },
+    {
+      "brand": "brand BB",
+      "message": "A paciência é a chave para a realização.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 54
+    },
+    {
+      "brand": "brand BC",
+      "message": "Os erros são lições disfarçadas.",
+      "isSpecial": true,
+      "prize": "Curso sobre resolução de problemas",
+      "id": 55
+    },
+    {
+      "brand": "brand BD",
+      "message": "O sucesso não é um acidente.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 56
+    },
+    {
+      "brand": "brand BE",
+      "message": "A inovação é a chave para o futuro.",
+      "isSpecial": true,
+      "prize": "Acesso a materiais exclusivos",
+      "id": 57
+    },
+    {
+      "brand": "brand BF",
+      "message": "O aprendizado é uma jornada, não um destino.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 58
+    },
+    {
+      "brand": "brand BG",
+      "message": "A autoconfiança é o primeiro passo para o sucesso.",
+      "isSpecial": true,
+      "prize": "Workshop de autoconfiança",
+      "id": 59
+    },
+    {
+      "brand": "brand BH",
+      "message": "O sucesso é uma combinação de preparação e oportunidade.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 60
+    },
+    {
+      "brand": "brand BI",
+      "message": "Cada falha é uma chance de recomeçar com mais experiência.",
+      "isSpecial": true,
+      "prize": "Acesso a palestras",
+      "id": 61
+    },
+    {
+      "brand": "brand BJ",
+      "message": "A motivação é o que te faz começar; o hábito é o que te faz continuar.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 62
+    },
+    {
+      "brand": "brand BK",
+      "message": "A persistência é o caminho do êxito.",
+      "isSpecial": true,
+      "prize": "Certificado de conclusão",
+      "id": 63
+    },
+    {
+      "brand": "brand BL",
+      "message": "Aprender é uma habilidade que nunca é demais.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 64
+    },
+    {
+      "brand": "brand BM",
+      "message": "A criatividade é a chave para a inovação.",
+      "isSpecial": true,
+      "prize": "Desafio de inovação",
+      "id": 65
+    },
+    {
+      "brand": "brand BN",
+      "message": "As melhores ideias vêm da colaboração.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 66
+    },
+    {
+      "brand": "brand BO",
+      "message": "Um bom programador é um eterno aprendiz.",
+      "isSpecial": true,
+      "prize": "Bolsas de estudo",
+      "id": 67
+    },
+    {
+      "brand": "brand BP",
+      "message": "Aprender com os erros é o caminho para a excelência.",
+      "isSpecial": false,
+      "prize": "",
+      "id": 68
+    },
+    {
+      "brand": "brand BQ",
+      "message": "A disciplina é a ponte entre metas e realizações.",
+      "isSpecial": true,
+      "prize": "Mentoria sobre produtividade",
+      "id": 69
     }
   ]
 }
